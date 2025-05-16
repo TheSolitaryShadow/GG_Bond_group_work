@@ -1,0 +1,213 @@
+[
+  {
+    "id": "001",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "price": 30,
+    "description": "The best game in the world.",
+    "image": "gameImage/01.png"
+  },
+  {
+    "id": "002",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "price": 31,
+    "description": "The sequel to the best game in the world",
+    "image": "gameImage/02.png"
+  },
+  {
+    "id": "003",
+    "name": "Fire Emblem: ThreeHouses",
+    "price": 29,
+    "description": "A tactical role-playing game",
+    "image": "gameImage/03.png"
+  },
+  {
+    "id": "004",
+    "name": "Fire Emblem: Engage",
+    "price": 35,
+    "description": "A tactical role-playing game",
+    "image": "gameImage/04.jpg"
+  },
+  {
+    "id": "005",
+    "name": "Super Mari odyssey",
+    "price": 28,
+    "description": "An action-adventure game",
+    "image": "gameImage/05.png"
+  },
+  {
+    "id": "006",
+    "name": "Pokémon Legends: Arceus",
+    "price": 25,
+    "description": "A turn-based adventure game",
+    "image": "gameImage/06.jpg"
+  },
+  {
+    "id": "007",
+    "name": "Pokémon Scarlet and Violet",
+    "price": 25,
+    "description": "An action-adventure game",
+    "image": "gameImage/07.jpg"
+  },
+  {
+    "id": "008",
+    "name": "Pokémon Sword and Shield",
+    "price": 25,
+    "description": "An action-adventure game",
+    "image": "gameImage/08.jpg"
+  },
+  {
+    "id": "009",
+    "name": "Persona 5",
+    "price": 40,
+    "description": "A JPRG game",
+    "image": "gameImage/09.jpg"
+  },
+  {
+    "id": "010",
+    "name": "Shin Megami Tensei V",
+    "price": 45,
+    "description": "The original version of Persona 5",
+    "image": "gameImage/10.jpg"
+  },
+  {
+    "id": "011",
+    "name": "DRAGON QUEST XI",
+    "price": 35,
+    "description": "The pioneer of the JPRG genre",
+    "image": "gameImage/11.jpg"
+  },
+  {
+    "id": "012",
+    "name": "It takes two",
+    "price": 35,
+    "description": "The pioneer of the JPRG genre",
+    "image": "gameImage/12.png"
+  },
+  {
+    "id": "013",
+    "name": "Love Is All Around",
+    "price": 5,
+    "description": "A galgame exclusively for Chinese people",
+    "image": "gameImage/13.jpg"
+  },
+  {
+    "id": "014",
+    "name": "Microsoft Flight Simulator",
+    "price": 40,
+    "description": "A simulation flight game",
+    "image": "gameImage/14.png"
+  },
+  {
+    "id": "015",
+    "name": "NBA 2k25",
+    "price": 30,
+    "description": "You can control the players to compete in the NBA.",
+    "image": "gameImage/15.jpg"
+  },
+  {
+    "id": "016",
+    "name": "Deep Rock Galactic",
+    "price": 12,
+    "description": "Deep Rock Galaxy is a multiplayer cooperative first person shooter game featuring amazing dwarves.",
+    "image": "gameImage/016.png"
+  },
+  {
+    "id": "017",
+    "name": "Grand Theft Auto V",
+    "price": 38,
+    "description": "Experience the entertainment industry's sensational Grand Theft Auto V.",
+    "image": "gameImage/017.png"
+  },
+  {
+    "id": "018",
+    "name": "Left 4 Dead 2",
+    "price": 7,
+    "description": "The highly anticipated Left 4 Dead 2 (L4D2) is set against the backdrop of the zombie apocalypse.",
+    "image": "gameImage/018.png"
+  },
+  {
+    "id": "019",
+    "name": "Palworld",
+    "price": 15,
+    "description": "Collect the magical creature Palu in the vast world.",
+    "image": "gameImage/019.png"
+  },
+  {
+    "id": "020",
+    "name": "Plague Inc: Evolved",
+    "price": 3,
+    "description": "Natural selection, survival of the fittest.",
+    "image": "gameImage/020.png"
+  },
+  {
+    "id": "021",
+    "name": "Plants vs. Zombies",
+    "price": 3.5,
+    "description": "Terrifying zombies are about to invade your home, and the only defense is the plants you plant!",
+    "image": "gameImage/021.png"
+  },
+  {
+    "id": "022",
+    "name": "Titanfall 2",
+    "price": 23,
+    "description": "Believe me.",
+    "image": "gameImage/022.png"
+  },
+  {
+    "id": "023",
+    "name": "Battlefield 1",
+    "price": 32.5,
+    "description": "Experience the dawn of Total War in epic scale team multiplayer battles or battles constructed through war stories.",
+    "image": "gameImage/023.png"
+  },
+  {
+    "id": "024",
+    "name": "Forza Horizon 5",
+    "price": 40,
+    "description": "Drive the world's best racing cars, explore the vibrant open world landscapes of Mexico, and experience endless driving pleasure.",
+    "image": "gameImage/024.png"
+  },
+  {
+    "id": "025",
+    "name": "Call of Duty: Modern Warfare II",
+    "price": 74.6,
+    "description": "Call of Duty： Modern Warfare II 2022 takes players into an unprecedented global conflict.",
+    "image": "gameImage/025.png"
+  },
+  {
+    "id": "026",
+    "name": "Black myth WUKONG",
+    "price": 43,
+    "description": "Black Myth: Wukong is an action role-playing game set against the backdrop of Chinese mythology.",
+    "image": "gameImage/026.png"
+  },
+  {
+    "id": "027",
+    "name": "Red Dead Redemption 2",
+    "price": 45,
+    "description": "Experience the perilous journey across America in the final years of the 19th century.",
+    "image": "gameImage/027.png"
+  },
+  {
+    "id": "028",
+    "name": "Watch_Dogs 2",
+    "price": 49.99,
+    "description": "Welcome to the birthplace of the technological revolution.",
+    "image": "gameImage/028.png"
+  },
+  {
+    "id": "029",
+    "name": "Sid Meier’s Civilization VI",
+    "price": 32,
+    "description": "Expand territory, develop culture, and confront the greatest leaders in history head-on.",
+    "image": "gameImage/029.png"
+  },
+  {
+    "id": "030",
+    "name": "No More Room in Hell 2",
+    "price": 26.6,
+    "description": "You will embark on a journey alone, searching for friends in the darkness and surviving together.",
+    "image": "gameImage/030.png"
+  }
+  
+]

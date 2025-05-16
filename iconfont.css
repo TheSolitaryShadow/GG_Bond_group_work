@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 4899581 */
+    src: url('//at.alicdn.com/t/c/font_4899581_yo5wf8m4qk.woff2?t=1745132471482') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4899581_yo5wf8m4qk.woff?t=1745132471482') format('woff'),
+         url('//at.alicdn.com/t/c/font_4899581_yo5wf8m4qk.ttf?t=1745132471482') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 32px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-newfill:before {
+    position: relative;
+    font-size:55px;
+    top:10px;
+    left:10px;
+    content: "\e71d";
+  }
+  
+  .icon-rankfill:before {
+    position: relative;
+    font-size:55px;
+    top:10px;
+    left:10px;
+    content: "\e721";
+  }
+  
+  .icon-video:before {
+    position: relative;
+    font-size:55px;
+    top:10px;
+    left:10px;
+    content: "\e7c8";
+  }
+  
+  .icon-game:before {
+    position: relative;
+    font-size:42px;
+    top:10px;
+    left:7px;
+    content: "\e625";
+  }
+  
+  .icon-home:before {
+    position: relative;
+    font-size:45px;
+    top:10px;
+    left:10px;
+    content: "\e672";
+  }
+  
