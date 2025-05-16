@@ -7,9 +7,12 @@
 }
 
 body {
-    background-image: linear-gradient(to right,
-                    #f0b5cf 0%,
-                    #b7b5ff 100%);
+    background-image: radial-gradient(circle at center,
+                    #dde7f3 0%,
+                    #add1f3 10%,
+                    #7189a5 50%,
+                    #43638c 80%,
+                    #223c5b 100%);
 }
 
 section {
@@ -144,7 +147,7 @@ section {
     background: #fff;
     border-radius: 50%;
     transition: 0.5s;
-    border: 7px solid rgb(110, 90, 240);
+    border: 7px solid #5d29bd;
     box-sizing: border-box;
 }
 
@@ -191,6 +194,10 @@ section {
 }
 
 /*News page's css*/
+.colortitle1{
+  color: #e4f660;
+}
+
 .news-block {
     height: 1800px;
 }
@@ -318,6 +325,10 @@ section {
 
 
 /*Videos page's CSS*/
+
+.colortitle2{
+  color: #f3f3a0;
+}
 #videos{
   height: 1000px;
 }
@@ -385,16 +396,17 @@ section {
   width: 100px;
   border-radius: 5px;
   transition: all;
+  background-color: #9bffb9;
 }
 
 .slideButton:hover{
-  background-color: #ea64cb;
+  background-color: #92ebd9;
   transition: 0.3s;
 }
 
 #rank-information-title{
   font-size: 30px;
-  color: #a8f1a4;
+  color: #3ed0ba;
 }
 #rank-information{
   height: 500px;
@@ -407,7 +419,7 @@ section {
 }
 
 #rank-information-content{
-  color: #94e7f2;
+  color: #80d0f0;
   font-size: 20px;
 }
 
@@ -420,7 +432,7 @@ section {
     min-width: 150px;         
     
     border-radius: 100px;
-    box-shadow: 0 0 20px #49ed3a;
+    box-shadow: 0 0 20px #66ccff;
     transition: transform 0.3s ease;
 }
 
@@ -437,7 +449,7 @@ section {
     transform: translate(-50%, -50%);
     width: 450px;
     height: 350px;
-    background-color: rgb(241, 177, 233);
+    background-color: #8387b5;
     box-shadow: 0 0 10px black;
     border-radius: 0 0 30px 30px;
     overflow: hidden;
@@ -447,7 +459,7 @@ section {
     position: relative;
     width: 450px;
     height: 170px;
-    background-color: rgb(240, 154, 233);
+    background-color:#c2c0d8 ;
     display: flex;
     justify-content: center;
     transition: 0.5s;
@@ -457,7 +469,7 @@ section {
     width: 40px;
     height: 40px;
     clip-path: polygon(50% 40%,0 0,100% 0);
-    background-color: rgb(253, 134, 241);
+    background-color: #9597be;
     position: absolute;
     left: 50%;
     transform: translate(-50%);
@@ -469,7 +481,7 @@ section {
     top: 20px;
     width: 120px;
     height: 120px;
-    background-image: url("resourse/GG2.png");
+    background-image: url("resourse/GG3.png");
     background-size: cover;
     transition: .5s;
     border: 5px solid rgb(15, 15, 16);
@@ -776,7 +788,7 @@ section {
     position: fixed; 
     top: 100px;
     right: 30px;
-    background: #309fe4;
+    background: #9dc7e4;
     color: white;
     padding: 12px 25px;
     border-radius: 25px;
@@ -788,12 +800,12 @@ section {
   }
   
   .cart-btn:hover {
-    background: #ea64cb;
+    background: #5adf07;
     transform: scale(1.05);
   }
   
   .shoppingButton {
-    background: #309fe4;
+    background: #93b8e5;
     color: white;
     border: none;
     padding: 12px 25px;
@@ -803,8 +815,8 @@ section {
   }
   
   .shoppingButton:hover {
-    background: #ea64cb;
-    box-shadow: 0 4px 12px rgba(56, 235, 21, 0.3);
+    background: #4e7ab1;
+    box-shadow: 0 4px 12px #66ccff;
   }
   .search-container {
     display: flex;
@@ -890,7 +902,7 @@ section {
   }
   
   .back-btn {
-    background: #309fe4;
+    background: #9dc7e4;
     color: white;
     padding: 12px 30px;
     border: none;
@@ -900,7 +912,7 @@ section {
   }
   
   .back-btn:hover {
-    background: #38eb15;
+    background: #5adf07;
     transform: scale(1.05);
   }
   
@@ -936,7 +948,7 @@ section {
     position: absolute;
     width: 500px;
     height: 375px;
-    background-color: coral;
+    background-color: rgb(255, 155, 73);
     --r: calc(var(--position) - var(--offset));
     --abs: max(calc(var(--r) * -1), var(--r));
     transition: all 0.25s linear;
@@ -1082,13 +1094,13 @@ section {
     bottom: 100px; 
     right: 20px; 
     padding: 10px 20px; 
-    background-color:rgb(20, 182, 218);
+    background-color:#8aa4c7;
     border-radius: 5px;
     transition: all 0.4s;
   }
 
   .openVueButton:hover{
-    background: #ea64cb;
+    background: #656e9a;
     transform: scale(1.05);
   }
 
@@ -1139,7 +1151,7 @@ section {
   }
 
   .surveySubmit:hover{
-    background: #ea64cb;
+    background: #58608a;
     transform: scale(1.05);
   }
   
@@ -1160,10 +1172,10 @@ section {
 
   /*footer' CSS*/
   .foot{
-    background-color: rgb(81, 81, 81) ;
+    background-color: rgb(72, 74, 78) ;
     padding: 10px;
     text-align: center; 
-    color: white;
+    color: rgb(231, 239, 240);
   }
 
 
